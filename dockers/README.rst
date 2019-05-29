@@ -15,7 +15,7 @@ Before starting the creation of the Docker image please download
 the Sundials solvers version 2.5.0
 from https://computation.llnl.gov/casc/sundials/main.html
 and copy the sundials-2.5.0.tar.gz file into the folder
-called ``software``.
+called ``softwares``.
 This file will be copied when the image is created.
 
 Build the image
